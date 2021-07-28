@@ -1,0 +1,103 @@
+body{
+    font-family: 'Prompt', sans-serif;
+    margin: 0;
+}
+#top-sec-text-highlight{
+    color: red;
+}
+.link-highlight{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 10px 20px;
+    font-weight: 600;
+    border-radius: 30px;
+}
+.flex-container{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 30px;
+}
+.half-width img{
+    width: 100%;
+}
+.top-text-heading{
+    margin-left: 100px;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    font-weight: bold;
+    color: rgb(95, 95, 95);
+}
+#chai-wala-sec{
+    background-image: url(images/top-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#chai-drinker-sec{
+    background-image: url(images/middle-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 100px;
+}
+#chai-drinker-sec img{
+    width: 70%;
+}
+#reposition-text{
+    margin-top: 50px;
+}
+#my-recipes-header{
+    text-align: center;
+}
+#my-recipes-header p{
+    width: 50%;
+    margin-left: 350px;
+}
+.chai-recipes-div img{
+    width: 100%;
+}
+.chai-img-resize img{
+    height: 400px;
+}
+#my-recipes-sec{
+    background-image: url(images/bottom-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 100px;
+}
+.one-third-width{
+    width: 30%;
+    margin-left: 3%;
+    padding: 0 15px;
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px darkgray;
+}
+.social-media-sec{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px darkgray;
+    margin-top: 100px;
+}
+.social-media-one-third-width{
+    width: 30%;
+    margin-left: 5%;
+    text-align: center;
+}
+.bottom-sec{
+    height: 150px;
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+}
+#bottom-sec-text-highlight{
+    color: white;
+}
