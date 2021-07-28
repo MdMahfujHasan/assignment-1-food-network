@@ -42,7 +42,7 @@ p{
     background-size: 100%;
 }
 #chai-drinker-sec{
-    background-image: url(images/middle-bg.jpg);
+    background-image: url(images/second-top-bg.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     margin-top: 100px;
@@ -86,6 +86,10 @@ p{
     border-radius: 20px;
     box-shadow: 10px 10px 30px darkgray;
     margin-top: 100px;
+    background-image: url(images/social-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 100px;
 }
 .social-media-one-third-width{
     width: 30%;
@@ -93,11 +97,47 @@ p{
     text-align: center;
 }
 .bottom-sec{
-    height: 150px;
+    height: 200px;
     text-align: center;
     margin-top: 100px;
     background-color: black;
 }
 #bottom-sec-text-highlight{
     color: white;
+}
+.front-page-img{
+    position: relative;
+}
+.front-page-img img{
+    margin-bottom: 100px;
+    width: 100%;
+}
+.select-food-sec{
+    background-image: url(images/second-last-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 100px;
+}
+.ordered-list{
+    background-color: blanchedalmond;
+    box-shadow: 10px 10px 30px lightblue;
+    padding: 20px;
+}
+.text-align{
+    text-align: center;
+}
+.front-heading{
+    position: absolute;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 70px;
+    margin-left: 50px;
+    margin-top: 250px;
+}
+#button{
+    margin-left: 620px;
+}
+#copyright{
+    margin-top: 50px;
 }
